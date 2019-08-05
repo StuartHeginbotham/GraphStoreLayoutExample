@@ -1,2 +1,2 @@
 # GraphStoreLayoutExample
-Example python in Jupyter to show how a store layout code be plotted and shaded using matplotlib
+Matplotlib example to show how a store layout code be plotted and shaded, in anaconda/jupyter
